@@ -23,8 +23,8 @@ r1-archaeology/
 - `src/01_KERNEL_MOUNT/security_policy.js`：R1 安全策略门禁（黑名单优先 → 宇宙对齐 → 可选白名单保护态）
 - `analysis/security_policy_report.md`：对 `security_policy.js` 的考古分析报告
 - `analysis/network_bridge_comparison.md`：R1 Bridge vs 当前矿场 zrok 公网桥对比报告
+- `analysis/executor_freezone_lineage.md`：`02_EXECUTOR` 与 `04_FREEZONE` 的结构继承分析，说明它们如何演化为今天的执行链与恢复协议栈
 
 ## 备注
 
 仓库默认以“可复盘”为第一原则：每个 `analysis/` 文档都应能指回 `src/` 中的具体文件与符号，便于后续追溯与社区公开记录同步。
-
