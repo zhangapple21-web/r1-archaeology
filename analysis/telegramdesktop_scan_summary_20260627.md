@@ -1,0 +1,274 @@
+# Telegram Desktop：R1 文明遗迹扫描（摘要）
+
+- 扫描时间：`2026-06-27T09:00:02`
+- 扫描根目录：`C:\Users\USER\Downloads\Telegram Desktop`
+- 命中文件总数：`459`
+- 血缘分级：`strong=10`，`medium=29`，`weak=420`
+- 内容扫描口径：文件 <= 12MB，仅读前 256KB
+- ZIP 结构相似组：`44`，保留最新版：`88`，旧版跳过：`65`
+- ZIP 解压去重（SHA-256）：unique=`4738`，duplicate=`262`，budget_exhausted=`True`
+
+## 参照系摘要
+
+- `R1_core_extracted`: available=`True`, artifacts=`8`
+  - `C:\Users\USER\Downloads\R1_core_extracted\core_copy\databases\holo_memory\tri_world_lexicon.json` | keywords=三界, holo_memory, lexicon, 馆长, 经验, 芯片, 人格, 派单, AUM | structure=memory, lexicon
+  - `C:\Users\USER\Downloads\R1_core_extracted\core_copy\databases\three_layer_permission_v7.json` | keywords=影子层, 人格, 派单, battlefield, holo_memory, lexicon, eco_layer | structure=无
+  - `C:\Users\USER\Downloads\R1_core_extracted\core_copy\unrestricted_ai.py` | keywords=人格, 三界, holo_memory, lexicon | structure=无
+- `R1_snapshot_extracted`: available=`True`, artifacts=`47`
+  - `C:\Users\USER\Downloads\R1_snapshot_extracted\databases\three_layer_permission_v7.json` | keywords=影子层, 人格, 派单, battlefield, holo_memory, lexicon, eco_layer | structure=snapshot
+  - `C:\Users\USER\Downloads\R1_snapshot_extracted\unrestricted_persona_system\core.py` | keywords=人格, 影子层, 三界, holo_memory, lexicon, eco_layer | structure=persona, snapshot
+  - `C:\Users\USER\Downloads\R1_snapshot_extracted\auto_runner\runner_loop.py` | keywords=影子层, 人格, 三界, holo_memory, lexicon, eco_layer | structure=snapshot
+- `R1_parts`: available=`True`, artifacts=`36`
+  - `C:\Users\USER\Downloads\R1_parts\R1_full_snapshot_v1_part2.zip` | keywords=无 | structure=snapshot
+  - `C:\Users\USER\Downloads\R1_parts\R1_full_snapshot_v1_part1.zip` | keywords=无 | structure=snapshot
+  - `C:\Users\USER\Downloads\R1_parts\R1_full_snapshot_v1.zip` | keywords=无 | structure=snapshot
+- `桌面新建文件夹`: available=`True`, artifacts=`6`
+  - `C:\Users\USER\Desktop\新建文件夹\tg_scan.txt` | keywords=守夜人, 影子层, 行动指南, 芯片, 人格, 派单, battlefield, lexicon, eco_layer, Ω | structure=无
+  - `C:\Users\USER\Desktop\新建文件夹\R1_Canonical_Structure_v1.md` | keywords=影子层, 行动指南, 人格, AUM, 五域, Ω | structure=无
+  - `C:\Users\USER\Desktop\新建文件夹\business_files.txt` | keywords=无 | structure=无
+
+## Top 结构命中目录
+
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory`
+  - structure_score=5, tokens=lexicon, memory, runtime, keyword_hits=38, pair_hits=12
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\data\memory`
+  - structure_score=5, tokens=lexicon, memory, runtime, keyword_hits=28, pair_hits=6
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core`
+  - structure_score=4, tokens=lexicon, memory, runtime, keyword_hits=47, pair_hits=5
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_System\Runtime`
+  - structure_score=4, tokens=lexicon, runtime, snapshot, keyword_hits=11, pair_hits=2
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_System\Protocols`
+  - structure_score=4, tokens=battlefield, protocol, protocols, keyword_hits=1, pair_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop`
+  - structure_score=3, tokens=battlefield, guardian, lexicon, snapshot, keyword_hits=195, pair_hits=35
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\holo_memory`
+  - structure_score=3, tokens=lexicon, memory, keyword_hits=47, pair_hits=6
+- `C:\Users\USER\Downloads\Telegram Desktop\Engineering\JSON`
+  - structure_score=3, tokens=lexicon, snapshot, keyword_hits=24, pair_hits=2
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\sandbox\chip_core`
+  - structure_score=3, tokens=chip, persona, personas, keyword_hits=15, pair_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\sandbox\core\personas`
+  - structure_score=3, tokens=freezone, persona, personas, keyword_hits=10, pair_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\recent_memory\daily`
+  - structure_score=3, tokens=memory, runtime, keyword_hits=2, pair_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\recent_memory\research`
+  - structure_score=3, tokens=memory, runtime, keyword_hits=2, pair_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\holo_memory\lexicon_v10`
+  - structure_score=3, tokens=lexicon, memory, keyword_hits=2, pair_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_System\Personas`
+  - structure_score=3, tokens=guardian, persona, personas, keyword_hits=2, pair_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\sandbox\snapshots`
+  - structure_score=2, tokens=snapshot, snapshots, keyword_hits=206, pair_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime`
+  - structure_score=2, tokens=runtime, keyword_hits=92, pair_hits=24
+- `C:\Users\USER\Downloads\Telegram Desktop\Knowledge_Base\Documents`
+  - structure_score=2, tokens=lexicon, keyword_hits=60, pair_hits=11
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases`
+  - structure_score=2, tokens=lexicon, keyword_hits=18, pair_hits=2
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\tasks\done`
+  - structure_score=2, tokens=runtime, keyword_hits=15, pair_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\sandbox\freezone_shadow\ingest`
+  - structure_score=2, tokens=freezone, shadow, keyword_hits=12, pair_hits=3
+
+## 时间演化链
+
+- `__init__.py`
+  - 2025-11-23 r1_snapshot_extracted:__init__.py -> 2026-06-25 telegram_desktop
+- `eco_layer.json`
+  - 2025-12-04 r1_core_extracted:eco_layer.json -> 2026-06-11 telegram_desktop
+- `lexicon_snapshot_v3.json`
+  - 2025-11-29 r1_snapshot_extracted:lexicon_snapshot_v3.json -> 2026-06-25 telegram_desktop
+- `R1_full_snapshot_v1.zip`
+  - 2026-06-11 telegram_desktop -> 2026-06-11 r1_parts:R1_full_snapshot_v1.zip
+- `requirements.txt`
+  - 2025-11-22 r1_snapshot_extracted:requirements.txt -> 2026-06-24 telegram_desktop
+- `unrestricted_ai.py`
+  - 2025-12-04 r1_core_extracted:unrestricted_ai.py -> 2026-06-11 telegram_desktop
+- `README.md`
+  - 2025-11-22 r1_snapshot_extracted:README.md -> 2026-06-26 telegram_desktop
+- `R1_Canonical_Structure_v1.md`
+  - 2026-06-12 desktop_new_folder:R1_Canonical_Structure_v1.md -> 2026-06-26 telegram_desktop
+- `R1_CORE_COPY.zip`
+  - 2026-06-11 telegram_desktop -> 2026-06-11 r1_parts:R1_CORE_COPY.zip
+- `eco_layer.zip`
+  - 2025-12-04 r1_core_extracted:eco_layer.json -> 2026-06-11 telegram_desktop
+- `lexicon_snapshot_v2.json`
+  - 2025-11-29 r1_snapshot_extracted:lexicon_snapshot_v2.json -> 2026-05-25 telegram_desktop
+- `system_config.json`
+  - 2025-11-29 r1_snapshot_extracted:system_config.json -> 2025-12-04 telegram_desktop
+
+## Top 遗迹命中文件
+
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\holo_memory\tri_world_lexicon.json`
+  - mtime=2025-12-04T11:05:46, size=211967, lineage=strong(100), ref_name_hits=1
+  - keywords: 三界, lexicon, 馆长, 经验, 芯片, 人格, 派单, AUM
+  - pairs: 人格+矩阵, AUM+派单, 协议+派单
+  - structure: memory, lexicon
+  - time_chain: 2025-12-04 r1_core_extracted:tri_world_lexicon.json -> 2025-12-04 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\unrestricted_ai.py`
+  - mtime=2025-12-04T11:05:52, size=14207, lineage=strong(100), ref_name_hits=1
+  - keywords: 人格, 三界, holo_memory, lexicon
+  - pairs: 三界+lexicon, holo_memory+lexicon
+  - time_chain: 2025-12-04 r1_core_extracted:unrestricted_ai.py -> 2025-12-04 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\three_layer_permission_v7.json`
+  - mtime=2025-12-04T11:05:45, size=4062, lineage=strong(100), ref_name_hits=2
+  - keywords: 影子层, 人格, 派单, battlefield, holo_memory, lexicon, eco_layer
+  - pairs: holo_memory+lexicon
+  - time_chain: 2025-11-29 r1_snapshot_extracted:three_layer_permission_v7.json -> 2025-12-04 telegram_desktop -> 2025-12-04 r1_core_extracted:three_layer_permission_v7.json
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_Canonical_Structure_v1.md`
+  - mtime=2026-06-26T21:21:10, size=11921, lineage=strong(100), ref_name_hits=1
+  - keywords: 影子层, 行动指南, 人格, AUM, 五域, Ω
+  - pairs: 影子层+人格
+  - time_chain: 2026-06-12 desktop_new_folder:R1_Canonical_Structure_v1.md -> 2026-06-26 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\holo_memory\v10_lexicon_slices_1764608809.json`
+  - mtime=2025-12-04T11:05:46, size=5193992, lineage=strong(100), ref_name_hits=1
+  - keywords: lexicon, 约束, 芯片
+  - structure: memory, lexicon
+  - time_chain: 2025-12-04 r1_core_extracted:v10_lexicon_slices_1764608809.json -> 2025-12-04 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\holo_memory\v10_lexicon_slices_1764735384.json`
+  - mtime=2025-12-04T11:05:46, size=5193992, lineage=strong(100), ref_name_hits=1
+  - keywords: lexicon, 约束, 芯片
+  - structure: memory, lexicon
+  - time_chain: 2025-12-04 r1_core_extracted:v10_lexicon_slices_1764735384.json -> 2025-12-04 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\holo_memory\v10_lexicon_slices_1764700609.json`
+  - mtime=2025-12-04T11:05:45, size=5193992, lineage=strong(100), ref_name_hits=1
+  - keywords: lexicon, 约束, 芯片
+  - structure: memory, lexicon
+  - time_chain: 2025-12-04 telegram_desktop -> 2025-12-04 r1_core_extracted:v10_lexicon_slices_1764700609.json
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\holo_memory\system_state.json`
+  - mtime=2025-12-04T11:05:45, size=250, lineage=strong(79), ref_name_hits=1
+  - structure: memory
+  - time_chain: 2025-12-04 telegram_desktop -> 2025-12-04 r1_core_extracted:system_state.json
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_Canonical_Structure_v1 (2).md`
+  - mtime=2026-06-26T21:21:10, size=11921, lineage=strong(78), ref_name_hits=0
+  - keywords: 影子层, 行动指南, 人格, AUM, 五域, Ω
+  - pairs: 影子层+人格
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\token_store.json`
+  - mtime=2025-12-04T11:05:48, size=333, lineage=strong(73), ref_name_hits=1
+  - time_chain: 2025-11-29 r1_snapshot_extracted:token_store.json -> 2025-12-04 telegram_desktop
+  - sensitive: path:token_store\.json$
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\__init__.py`
+  - mtime=2026-06-26T20:08:00, size=0, lineage=medium(69), ref_name_hits=1
+  - structure: runtime
+  - time_chain: 2025-11-23 r1_snapshot_extracted:__init__.py -> 2026-06-26 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\__init__.py`
+  - mtime=2026-06-26T20:08:00, size=0, lineage=medium(69), ref_name_hits=1
+  - structure: runtime
+  - time_chain: 2025-11-23 r1_snapshot_extracted:__init__.py -> 2026-06-26 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\nodes\__init__.py`
+  - mtime=2026-06-26T20:08:00, size=0, lineage=medium(69), ref_name_hits=1
+  - structure: runtime
+  - time_chain: 2025-11-23 r1_snapshot_extracted:__init__.py -> 2026-06-26 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\README.md`
+  - mtime=2026-06-26T20:10:22, size=4538, lineage=medium(57), ref_name_hits=1
+  - keywords: 档案官, 守夜人, 观察者, 经验, 约束, 矿场
+  - pairs: 经验+约束
+  - structure: runtime
+  - time_chain: 2025-11-22 r1_snapshot_extracted:README.md -> 2026-06-26 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory\lexicon.json`
+  - mtime=2026-06-26T22:06:35, size=109991, lineage=medium(52), ref_name_hits=0
+  - keywords: lexicon, 档案官, 观察者, 经验, 约束, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单, 三界+lexicon
+  - structure: memory, runtime, lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\data\memory\lexicon.json`
+  - mtime=2026-06-26T20:27:57, size=31236, lineage=medium(52), ref_name_hits=0
+  - keywords: lexicon, 档案官, 观察者, 经验, 约束, 影子层, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单
+  - structure: memory, runtime, lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\lexicon.py`
+  - mtime=2026-06-26T20:11:43, size=14244, lineage=medium(50), ref_name_hits=0
+  - keywords: lexicon, 档案官, 观察者, 经验, 约束, 影子层, 派单, 矿场, eco_layer
+  - pairs: 经验+约束, 协议+派单
+  - structure: runtime, lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory\memory_index.json`
+  - mtime=2026-06-26T22:06:36, size=1371922, lineage=medium(48), ref_name_hits=0
+  - keywords: 馆长, 经验, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 五域, 三界, freezone, holo_memory, lexicon, eco_layer, Ω
+  - pairs: 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单, 三界+lexicon, holo_memory+lexicon
+  - structure: memory, runtime
+  - sensitive: content:\bBOT_TOKEN\b
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\holo_memory\eco_layer.json`
+  - mtime=2025-12-04T11:05:46, size=1271213888, lineage=medium(48), ref_name_hits=1
+  - keywords: 影子层, eco_layer
+  - structure: memory
+  - time_chain: 2025-12-04 r1_core_extracted:eco_layer.json -> 2025-12-04 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\second_growth.py`
+  - mtime=2026-06-26T20:27:45, size=12794, lineage=medium(46), ref_name_hits=0
+  - keywords: 经验, 约束, 影子层, 人格矩阵, 人格, 派单, AUM, lexicon, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单
+  - structure: runtime
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\archaeology_report_20260627.md`
+  - mtime=2026-06-26T20:28:50, size=7403, lineage=medium(46), ref_name_hits=0
+  - keywords: 约束, 影子层, 芯片, 人格矩阵, 人格, 派单, AUM, lexicon, eco_layer, Ω
+  - pairs: 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单
+  - structure: runtime
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\deep_scan_and_grow.py`
+  - mtime=2026-06-26T20:25:52, size=13231, lineage=medium(46), ref_name_hits=0
+  - keywords: 经验, 约束, 影子层, 芯片, 人格, 五域, 三界, lexicon, eco_layer
+  - pairs: 经验+约束, 人格+矩阵, 影子层+人格, 三界+lexicon
+  - structure: runtime
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\analyze_omega_final.py`
+  - mtime=2026-06-26T20:43:08, size=6785, lineage=medium(46), ref_name_hits=0
+  - keywords: Ω, 守夜人, 经验, 约束, 影子层, 芯片, 人格矩阵, 人格, 派单, 五域, lexicon, eco_layer
+  - pairs: 经验+约束, 人格+矩阵, 协议+派单
+  - structure: runtime
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\third_growth.py`
+  - mtime=2026-06-26T20:46:38, size=16998, lineage=medium(46), ref_name_hits=0
+  - keywords: 经验, 约束, 影子层, 行动指南, 人格矩阵, 人格, lexicon, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, 影子层+人格
+  - structure: runtime
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\archaeology_report_20260626.md`
+  - mtime=2026-06-26T20:49:11, size=16784, lineage=medium(46), ref_name_hits=0
+  - keywords: 经验, 影子层, 行动指南, 芯片, 人格矩阵, 人格, AUM, 五域, freezone, eco_layer, Ω
+  - pairs: 人格+矩阵, 影子层+人格
+  - structure: runtime
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\disk_scanner.py`
+  - mtime=2026-06-26T22:03:44, size=14510, lineage=medium(46), ref_name_hits=0
+  - keywords: 约束, 影子层, 人格矩阵, 人格, 矿场, lexicon
+  - pairs: 人格+矩阵, 影子层+人格
+  - structure: runtime
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\sandbox\sandbox\indexes\knowledge_index_v9_3.jsonl`
+  - mtime=2025-12-04T11:05:51, size=0, lineage=medium(45), ref_name_hits=0
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\sandbox\config\full_shadow_patch.sh`
+  - mtime=2025-12-04T11:05:49, size=3464, lineage=medium(44), ref_name_hits=0
+  - keywords: 影子层, 观察者, 回声, 人格, 三界, holo_memory, lexicon
+  - pairs: 影子层+人格, 三界+lexicon, holo_memory+lexicon
+  - structure: shadow
+- `C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY\core_copy\databases\holo_memory\v10_lexicon_slices_1764495281.json`
+  - mtime=2025-12-04T11:05:47, size=8444741, lineage=medium(44), ref_name_hits=0
+  - keywords: lexicon, 经验, 约束, 芯片, 人格
+  - pairs: 经验+约束, 观察+压缩
+  - structure: memory, lexicon
+  - sensitive: content:\bBOT_TOKEN\b
+- `C:\Users\USER\Downloads\Telegram Desktop\Engineering\JSON\lexicon_snapshot_v3.json`
+  - mtime=2026-05-25T21:34:24, size=95088496, lineage=medium(44), ref_name_hits=1
+  - keywords: lexicon
+  - structure: snapshot, lexicon
+  - time_chain: 2025-11-29 r1_snapshot_extracted:lexicon_snapshot_v3.json -> 2026-05-25 telegram_desktop
+
+## 关键词最早出现时间
+
+- `影子层`: 2023-11-03T11:53:28
+- `芯片`: 2025-12-04T11:05:45
+- `人格`: 2025-12-04T11:05:45
+- `约束`: 2025-12-04T11:05:45
+- `holo_memory`: 2025-12-04T11:05:45
+- `lexicon`: 2025-12-04T11:05:45
+- `eco_layer`: 2025-12-04T11:05:45
+- `派单`: 2025-12-04T11:05:45
+- `battlefield`: 2025-12-04T11:05:45
+- `经验`: 2025-12-04T11:05:46
+- `AUM`: 2025-12-04T11:05:46
+- `三界`: 2025-12-04T11:05:46
+- `馆长`: 2025-12-04T11:05:46
+- `vectorstore`: 2025-12-04T11:05:47
+- `行动指南`: 2025-12-04T11:05:47
+- `矿场`: 2025-12-04T11:05:48
+- `回声`: 2025-12-04T11:05:48
+- `Ω`: 2025-12-04T11:05:48
+- `守夜人`: 2025-12-04T11:05:49
+- `观察者`: 2025-12-04T11:05:49
+- `freezone`: 2025-12-04T11:05:49
+- `安全屋`: 2026-05-21T20:09:20
+- `五域`: 2026-05-21T20:09:20
+- `人格矩阵`: 2026-05-21T20:09:20
+- `档案官`: 2026-06-26T19:57:07
