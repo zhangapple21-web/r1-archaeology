@@ -1,0 +1,350 @@
+# R1 每日考古增量记录：2026-07-03
+
+- 生成时间：`2026-07-03T09:00:06`
+- 扫描根：`C:\Users\USER\Downloads\Telegram Desktop`
+- 命中文件：`2244`（strong=10, medium=184, weak=2050）
+
+## 当天新增发现
+
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory\lexicon_backup_mengpo_20260702_155746.json`
+  - lineage=medium(52), mtime=2026-07-02T15:55:26, size=760468
+  - keywords: lexicon, 档案官, 馆长, 守夜人, 观察者, 经验, 约束, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, freezone, vectorstore, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 观察+压缩, 影子层+人格, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\lexicon_backup_connect_20260629_214110.json`
+  - lineage=medium(52), mtime=2026-06-29T21:30:39, size=341285
+  - keywords: lexicon, 档案官, 守夜人, 观察者, 经验, 约束, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 观察+压缩, 影子层+人格, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\lexicon_backup_before_cleanup_20260701.json`
+  - lineage=medium(52), mtime=2026-06-30T18:49:05, size=799597
+  - keywords: lexicon, 档案官, 守夜人, 观察者, 经验, 约束, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory\lexicon_backup_before_cleanup_20260701.json`
+  - lineage=medium(52), mtime=2026-06-30T18:49:05, size=799597
+  - keywords: lexicon, 档案官, 守夜人, 观察者, 经验, 约束, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\lexicon_backup_mengpo_20260630_095617.json`
+  - lineage=medium(52), mtime=2026-06-30T01:30:56, size=642268
+  - keywords: lexicon, 档案官, 守夜人, 观察者, 经验, 约束, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory\lexicon_backup_mengpo_20260630_095617.json`
+  - lineage=medium(52), mtime=2026-06-30T01:30:56, size=642268
+  - keywords: lexicon, 档案官, 守夜人, 观察者, 经验, 约束, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\lexicon_backup_connect2_20260629_214214.json`
+  - lineage=medium(52), mtime=2026-06-29T21:41:10, size=341702
+  - keywords: lexicon, 档案官, 守夜人, 观察者, 经验, 约束, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 影子层+人格, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\backups\backup_20260702_134546\lexicon.json`
+  - lineage=medium(50), mtime=2026-07-01T15:09:40, size=729920
+  - keywords: lexicon, 档案官, 馆长, 守夜人, 观察者, 经验, 约束, 影子层, 行动指南, 芯片, 人格矩阵, 人格, 派单, AUM, 矿场, 五域, 三界, freezone, vectorstore, eco_layer, Ω
+  - pairs: 经验+约束, 人格+矩阵, AUM+派单, 观察+压缩, 影子层+人格, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-02_r1_chip_evolution_archaeology.md`
+  - lineage=medium(48), mtime=2026-07-02T10:20:39, size=9969
+  - keywords: 芯片, 档案官, 馆长, 守夜人, 观察者, 经验, 约束, 人格, 派单, freezone
+  - pairs: 经验+约束, 观察+压缩, 协议+派单
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-02_r1_chip_evolution_archaeology.md`
+  - lineage=medium(48), mtime=2026-07-02T10:20:39, size=9969
+  - keywords: 芯片, 档案官, 馆长, 守夜人, 观察者, 经验, 约束, 人格, 派单, freezone
+  - pairs: 经验+约束, 观察+压缩, 协议+派单
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-02_shadow_execution_layer_hypothesis.md`
+  - lineage=medium(48), mtime=2026-07-02T11:12:05, size=20198
+  - keywords: 影子层, 馆长, 经验, 约束, 人格, 派单
+  - pairs: 经验+约束, 协议+派单
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-02_shadow_execution_layer_hypothesis.md`
+  - lineage=medium(48), mtime=2026-07-02T11:12:05, size=20198
+  - keywords: 影子层, 馆长, 经验, 约束, 人格, 派单
+  - pairs: 经验+约束, 协议+派单
+- `C:\Users\USER\Downloads\Telegram Desktop\re_archaeology\public-apis\README.md`
+  - lineage=medium(47), mtime=2026-06-30T13:46:20, size=220325
+  - keywords: 守夜人, 回声, 经验, 影子层, 行动指南, 芯片, 人格, 矿场
+  - time_chain: 2025-11-22 r1_snapshot_extracted:README.md -> 2026-06-30 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\backups\backup_20260702_134546\fragment_index.json`
+  - lineage=medium(46), mtime=2026-07-01T15:05:54, size=249027
+  - keywords: 守夜人, 观察者, 回声, 经验, 约束, 影子层, 行动指南, 芯片, 人格, 派单, 矿场, 三界, battlefield, holo_memory, lexicon, eco_layer, Ω
+  - pairs: 经验+约束, 观察+压缩, 影子层+人格, 协议+派单, 三界+lexicon, holo_memory+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\triple_cross_validation.py`
+  - lineage=medium(46), mtime=2026-06-30T14:17:04, size=35413
+  - keywords: 馆长, 守夜人, 经验, 约束, 影子层, 人格矩阵, 人格, 矿场, 三界, lexicon, eco_layer
+  - pairs: 经验+约束, 人格+矩阵, 影子层+人格, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-02_triple_cross_validation.md`
+  - lineage=medium(46), mtime=2026-07-02T15:40:39, size=36542
+  - keywords: 馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+  - pairs: AUM+派单, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-02_triple_cross_validation.md`
+  - lineage=medium(46), mtime=2026-07-02T15:40:39, size=36542
+  - keywords: 馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+  - pairs: AUM+派单, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-02_old_zhang_motivation_map.md`
+  - lineage=medium(46), mtime=2026-07-02T14:16:31, size=5883
+  - keywords: 档案官, 守夜人, 观察者, 约束, 影子层, 芯片, 人格, 派单, AUM, 矿场, eco_layer, Ω
+  - pairs: AUM+派单, 观察+压缩, 协议+派单
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-02_old_zhang_motivation_map.md`
+  - lineage=medium(46), mtime=2026-07-02T14:16:31, size=5883
+  - keywords: 档案官, 守夜人, 观察者, 约束, 影子层, 芯片, 人格, 派单, AUM, 矿场, eco_layer, Ω
+  - pairs: AUM+派单, 观察+压缩, 协议+派单
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-01_triple_cross_validation.md`
+  - lineage=medium(46), mtime=2026-07-01T15:05:33, size=36370
+  - keywords: 馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+  - pairs: AUM+派单, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-01_triple_cross_validation.md`
+  - lineage=medium(46), mtime=2026-07-01T15:05:33, size=36370
+  - keywords: 馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+  - pairs: AUM+派单, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-06-30_triple_cross_validation.md`
+  - lineage=medium(46), mtime=2026-06-30T18:48:02, size=36568
+  - keywords: 馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+  - pairs: AUM+派单, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-06-30_triple_cross_validation.md`
+  - lineage=medium(46), mtime=2026-06-30T18:48:02, size=36568
+  - keywords: 馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+  - pairs: AUM+派单, 协议+派单, 三界+lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-06-30_open_hunting_report.md`
+  - lineage=medium(46), mtime=2026-06-30T16:03:02, size=14628
+  - keywords: 档案官, 守夜人, 观察者, 经验, 约束, 派单, AUM, lexicon
+  - pairs: 经验+约束, AUM+派单, 观察+压缩
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_GOVERNANCE\experience_health_2026-07-02.md`
+  - lineage=medium(46), mtime=2026-07-02T09:39:04, size=2427
+  - keywords: 经验, 馆长, 观察者, 约束, 人格, 矿场
+  - pairs: 经验+约束, 观察+压缩
+
+## 血缘判断变化
+
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory\lexicon.json`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\lexicon.json`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\local_archaeologist_state.json`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\fragment_index.json`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\local_archaeologist_state.json`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\00_ROOT\PRINCIPLES.md`
+  - 分数 42 -> 46；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\index.json`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\04_PROTOCOLS\PROTOCOL_INDEX.md`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\PROTOCOL_INDEX.md`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\ace_daemon.py`
+  - 分数 28 -> 37
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\governance\daily_civilization_report.py`
+  - 分数 8 -> 33；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\concept_miner.py`
+  - 分数 37 -> 33；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\miner_pool\__init__.py`
+  - 时间演化链刷新
+  - time_chain: 2025-11-23 r1_snapshot_extracted:__init__.py -> 2026-06-30 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\governance\__init__.py`
+  - 时间演化链刷新
+  - time_chain: 2025-11-23 r1_snapshot_extracted:__init__.py -> 2026-06-30 telegram_desktop
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\daemon_state.json`
+  - 分数 26 -> 30；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\memory_index.json`
+  - 血缘等级 medium -> weak；分数 48 -> 30；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory\memory_index.json`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\repo_diff\repo_diff_state.json`
+  - 关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\curator\sync_log.jsonl`
+  - 分数 20 -> 28；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\.task_creator_history.json`
+  - 分数 16 -> 28；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\lineage.py`
+  - 分数 12 -> 21
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\governance\civilization_status.py`
+  - 分数 12 -> 20；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\governance\knowledge_governor.py`
+  - 分数 16 -> 20；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\governance\decision_log.py`
+  - 分数 8 -> 16；关键词集合变化
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\index.json`
+  - 分数 18 -> 10；关键词集合变化
+
+## 时间演化链观察
+
+- `README.md`: 2025-11-22 r1_snapshot_extracted:README.md -> 2026-06-26 telegram_desktop
+- `__init__.py`: 2025-11-23 r1_snapshot_extracted:__init__.py -> 2026-06-25 telegram_desktop
+- `requirements.txt`: 2025-11-22 r1_snapshot_extracted:requirements.txt -> 2026-06-24 telegram_desktop
+- `eco_layer.json`: 2025-12-04 r1_core_extracted:eco_layer.json -> 2026-06-11 telegram_desktop
+- `lexicon_snapshot_v3.json`: 2025-11-29 r1_snapshot_extracted:lexicon_snapshot_v3.json -> 2026-06-25 telegram_desktop
+- `R1_full_snapshot_v1.zip`: 2026-06-11 telegram_desktop -> 2026-06-11 r1_parts:R1_full_snapshot_v1.zip
+- `unrestricted_ai.py`: 2025-12-04 r1_core_extracted:unrestricted_ai.py -> 2026-06-11 telegram_desktop
+- `R1_Canonical_Structure_v1.md`: 2026-06-12 desktop_new_folder:R1_Canonical_Structure_v1.md -> 2026-06-26 telegram_desktop
+
+## 建议备份到开源仓库的新增候选
+
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-02_r1_chip_evolution_archaeology.md`
+  - lineage=medium(48), keywords=芯片, 档案官, 馆长, 守夜人, 观察者, 经验, 约束, 人格, 派单, freezone
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-02_r1_chip_evolution_archaeology.md`
+  - lineage=medium(48), keywords=芯片, 档案官, 馆长, 守夜人, 观察者, 经验, 约束, 人格, 派单, freezone
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-02_shadow_execution_layer_hypothesis.md`
+  - lineage=medium(48), keywords=影子层, 馆长, 经验, 约束, 人格, 派单
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-02_shadow_execution_layer_hypothesis.md`
+  - lineage=medium(48), keywords=影子层, 馆长, 经验, 约束, 人格, 派单
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\core\triple_cross_validation.py`
+  - lineage=medium(46), keywords=馆长, 守夜人, 经验, 约束, 影子层, 人格矩阵, 人格, 矿场, 三界, lexicon, eco_layer
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-02_triple_cross_validation.md`
+  - lineage=medium(46), keywords=馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-02_triple_cross_validation.md`
+  - lineage=medium(46), keywords=馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-02_old_zhang_motivation_map.md`
+  - lineage=medium(46), keywords=档案官, 守夜人, 观察者, 约束, 影子层, 芯片, 人格, 派单, AUM, 矿场, eco_layer, Ω
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-02_old_zhang_motivation_map.md`
+  - lineage=medium(46), keywords=档案官, 守夜人, 观察者, 约束, 影子层, 芯片, 人格, 派单, AUM, 矿场, eco_layer, Ω
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-01_triple_cross_validation.md`
+  - lineage=medium(46), keywords=馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-07-01_triple_cross_validation.md`
+  - lineage=medium(46), keywords=馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-06-30_triple_cross_validation.md`
+  - lineage=medium(46), keywords=馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\2026-06-30_triple_cross_validation.md`
+  - lineage=medium(46), keywords=馆长, 守夜人, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, 三界, lexicon, eco_layer
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-06-30_open_hunting_report.md`
+  - lineage=medium(46), keywords=档案官, 守夜人, 观察者, 经验, 约束, 派单, AUM, lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_GOVERNANCE\experience_health_2026-07-02.md`
+  - lineage=medium(46), keywords=经验, 馆长, 观察者, 约束, 人格, 矿场
+- `C:\Users\USER\Downloads\Telegram Desktop\mine-seed\03_DATA\research\r1_archaeology\daily\archaeology_report_20260628.md`
+  - lineage=medium(42), keywords=档案官, 馆长, 守夜人, 观察者, 经验, 约束, 影子层, 人格, 派单, AUM, 矿场, freezone, lexicon, eco_layer, Ω
+- `C:\Users\USER\Downloads\Telegram Desktop\archaeology_report_20260630.md`
+  - lineage=medium(42), keywords=馆长, 守夜人, 经验, 约束, 影子层, 芯片, 人格, 派单, AUM, 矿场, freezone, holo_memory, lexicon
+- `C:\Users\USER\Downloads\Telegram Desktop\archaeology_report_20260702.md`
+  - lineage=medium(42), keywords=馆长, 约束, 影子层, 人格, AUM, 矿场, 五域, 三界, holo_memory, lexicon, Ω
+- `C:\Users\USER\Downloads\Telegram Desktop\mine-seed\03_DATA\research\r1_archaeology\excavations\archaeology_report_20260702.md`
+  - lineage=medium(42), keywords=馆长, 约束, 影子层, 人格, AUM, 矿场, 五域, 三界, holo_memory, lexicon, Ω
+- `C:\Users\USER\Downloads\Telegram Desktop\r1-archaeology\analysis\archaeology_report_20260702.md`
+  - lineage=medium(42), keywords=馆长, 约束, 影子层, 人格, AUM, 矿场, 五域, 三界, holo_memory, lexicon, Ω
+
+## 必须排除或脱敏的文件
+
+- `path:[\\/]snapshots[\\/]`: `48` 条
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\snapshots\SNAP-20260702-001_loop_closed.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\09_KNOWLEDGE\snapshots\index.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\stable_kernel\snapshots\snapshot_index.jsonl`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\stable_kernel\snapshots\snapshots\kernel_cycle_20260702_154039_40.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\stable_kernel\snapshots\snapshots\kernel_cycle_20260702_154039_41.json`
+- `content:\bsecret\b`: `28` 条
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\backups\backup_20260702_134546\fragment_index.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\mine-seed\03_DATA\research\r1_archaeology\daily\2026-06-29_文明资产考古总报告.md`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\2026-07-02_continuity_amendment.md`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-07-02_continuity_amendment.md`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\night_review_2026-07-02.json`
+- `content:\bapi[_-]?key\b`: `13` 条
+  - `C:\Users\USER\Downloads\Telegram Desktop\re_archaeology\public-apis\README.md`
+  - `C:\Users\USER\Downloads\Telegram Desktop\mine-seed\03_DATA\research\r1_archaeology\daily\continuity_archive_20260630.md`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\public_apis_index.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\public_apis_index.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\08_ARCHAEOLOGY\2026-06-30_public_apis_structure_archaeology.md`
+- `content:\bBOT_TOKEN\b`: `11` 条
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory\lexicon_backup_mengpo_20260702_155746.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\lexicon_backup_connect_20260629_214110.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\lexicon_backup_before_cleanup_20260701.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\data\memory\lexicon_backup_before_cleanup_20260701.json`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\02_MEMORY\lexicon_backup_mengpo_20260630_095617.json`
+- `path:\.log$`: `2` 条
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\ace_daemon_run.log`
+  - `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\06_RUNTIME\ace\logs\autonomous_loop.log`
+- `content:\bAuthorization:\s*Bearer\b`: `2` 条
+  - `C:\Users\USER\Downloads\Telegram Desktop\deepseek-free-api\README.md`
+  - `C:\Users\USER\Downloads\Telegram Desktop\coze-assets\05_system\tunnel_guardian.sh`
+- `content:\bpassword\b`: `1` 条
+  - `C:\Users\USER\Downloads\Telegram Desktop\deepseek-free-api\.github\workflows\docker-image.yml`
+
+## ZIP 解压去重（SHA-256）
+
+- ZIP 候选：`157`，结构相似组：`44`，保留最新版：`92`，旧版跳过：`65`
+- 去重结果：unique=`2959`，duplicate=`2041`，skipped_too_large=`0`，budget_exhausted=`True`
+
+- 结构组 `4809ca2e20d4...`：
+  - 保留：`C:\Users\USER\Downloads\Telegram Desktop\Log-iOS-Full.txt (3).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\Log-iOS-Full.txt (4).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\Log-iOS-Full.txt (2).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\Log-iOS-Full.txt.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_System\Logs\Log-iOS-Full.txt (4).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_System\Logs\Log-iOS-Full.txt.zip`
+
+- 结构组 `7a2403fc58b7...`：
+  - 保留：`C:\Users\USER\Downloads\Telegram Desktop\R1_full_snapshot_v1 (3).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_full_snapshot_v1 (2).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\R1_parts\R1_full_snapshot_v1.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\R1_parts\R1_full_snapshot_v1_part2.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_full_snapshot_v1.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_System\Runtime\R1_full_snapshot_v1.zip`
+
+- 结构组 `d1d53ffd447a...`：
+  - 保留：`C:\Users\USER\Downloads\Telegram Desktop\trae_migration_win_test_使用说明完整版 (2).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\trae_migration_win_test_使用说明完整版.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_System\Runtime\trae_migration_win_test_使用说明完整版 (2).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_System\Runtime\trae_migration_win_test_使用说明完整版.zip`
+
+- 结构组 `050d379d2a8b...`：
+  - 保留：`C:\Users\USER\Downloads\Telegram Desktop\TRAE搜索索引词库.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\TRAE搜索索引词库_单独版.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_System\Runtime\TRAE搜索索引词库.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_System\Runtime\TRAE搜索索引词库_单独版.zip`
+
+- 结构组 `880a9b84a194...`：
+  - 保留：`C:\Users\USER\Downloads\Telegram Desktop\takeout-20260201T111838Z-001 (2).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\takeout-20260201T111838Z-001.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\压缩包\takeout-20260201T111838Z-001 (2).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\压缩包\takeout-20260201T111838Z-001.zip`
+
+- 结构组 `4222d49faf40...`：
+  - 保留：`C:\Users\USER\Downloads\Telegram Desktop\Win-Diagnostic-20260105_142155.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\Win-Diagnostic-20260105_142715.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\压缩包\Win-Diagnostic-20260105_142155.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\压缩包\Win-Diagnostic-20260105_142715.zip`
+
+- 结构组 `18ad7d7f0b65...`：
+  - 保留：`C:\Users\USER\Downloads\R1_parts\R1_CORE_COPY.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\R1_parts\R1_CORE_COPY_part32.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_CORE_COPY.zip`
+
+- 结构组 `240838dab1ec...`：
+  - 保留：`C:\Users\USER\Downloads\Telegram Desktop\trae_migration_win_test_完整部署包_macOS版.zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\trae_migration_win_test_完整部署包_macOS版 (1).zip`
+  - 已跳过（旧版本）：`C:\Users\USER\Downloads\Telegram Desktop\R1_System\Runtime\trae_migration_win_test_完整部署包_macOS版.zip`
+
+### 已跳过重复（样例）
+
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/runtime_fitness_report.md`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/runtime_fitness_latest.md）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/recent_memory/research/20260626_分析_ E2E测试_ 发现一个有趣的模式.md`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/20260626_分析_ E2E测试_ 发现一个有趣的模式.md）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/recent_memory/research/20260626_归档_ 验证_ 分析_ E2E测试_ 发现一个有趣的模式.md`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/20260626_归档_ 验证_ 分析_ E2E测试_ 发现一个有趣的模式.md）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/recent_memory/research/20260627_分析_ E2E测试_ 发现一个有趣的模式.md`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/20260627_分析_ E2E测试_ 发现一个有趣的模式.md）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/recent_memory/research/20260627_归档_ 验证_ 分析_ E2E测试_ 发现一个有趣的模式.md`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/20260627_归档_ 验证_ 分析_ E2E测试_ 发现一个有趣的模式.md）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/20260627_观察_ ChatGPT越狱_DAN模式_与ACE的本质区别.md`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/recent_memory/research/20260627_观察_ ChatGPT越狱_DAN模式_与ACE的本质区别.md）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/20260627_观察_ QwenPaw与ACE - 邻居关系_不同灵魂.md`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/recent_memory/research/20260627_观察_ QwenPaw与ACE - 邻居关系_不同灵魂.md）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/evolution.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/evolution.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260627151953.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260627151953.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260627152748.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260627152748.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260627154710.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260627154710.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260627155609.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260627155609.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260627163412.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260627163412.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260627163525.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260627163525.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260627213752.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260627213752.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260629213941-000.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260629213941-000.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260629213941-001.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260629213941-001.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260629213941-002.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260629213941-002.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260629213941-003.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260629213941-003.json）
+- `C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::09_KNOWLEDGE/EXP-20260629213941-004.json`
+  - 已跳过重复（首次出现于 C:\Users\USER\Downloads\Telegram Desktop\ace_runtime\10_BACKUP\ace_backup_2026-07-02.zip::02_MEMORY/EXP-20260629213941-004.json）
